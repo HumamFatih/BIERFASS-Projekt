@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "3PiPlusSandbox",
+			"path": "."
+		},
+		{
+			"name": "Template 3PiPlus",
+			"path": "../../../../Documents/PlatformIO/Projects/Template 3PiPlus"
+		},
+		{
+			"name": "3PiPlus",
+			"path": "../../../../Documents/PlatformIO/Projects/3PiPlus"
+		}
+	],
+	"settings": {}
+}
